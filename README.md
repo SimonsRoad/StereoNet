@@ -8,7 +8,7 @@ Now, my model's speed can achieve 60-25FPS on 540*960 img with the best result o
 the following are the side outputs and the prediction example
 #### train example
 ![train example](https://github.com/meteorshowers/StereoNet/blob/master/doc/iter-21200.jpg)
-#### test example
+#### test example(outputs of 16single model and GT)
 ![test example](https://github.com/meteorshowers/StereoNet/blob/master/doc/iter-70.jpg)
 
 ### Citation
