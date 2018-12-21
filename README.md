@@ -13,8 +13,13 @@ the following are the side outputs and the prediction example
 
 ### Citation
 If you find our work useful in your research, please consider citing:
-
-
+@inproceedings{khamis2018stereonet,
+  title={Stereonet: Guided hierarchical refinement for real-time edge-aware depth prediction},
+  author={Khamis, Sameh and Fanello, Sean and Rhemann, Christoph and Kowdle, Adarsh and Valentin, Julien and Izadi, Shahram},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV), Munich, Germany},
+  pages={8--14},
+  year={2018}
+}
 
 ### Introduction 
 I implement the real-tim stereo model according to the   XXX   model in pytorch
