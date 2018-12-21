@@ -22,7 +22,7 @@ If you find our work useful in your research, please consider citing:
 }
 
 ### Introduction 
-I implement the real-tim stereo model according to the   XXX   model in pytorch
+I implement the real-time  stereo model according to the   XXX   model in pytorch
 
 | Method |EPE_all on sceneflow dataset |EPE_all on kitti2012 dataset|EPE_all on kitti2015 dataset|
 |:---|:---:|:---:|:---:|
